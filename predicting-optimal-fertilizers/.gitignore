@@ -17,7 +17,7 @@ __pycache__/
 
 # OS/환경 관련
 .DS_Store
-Thumbs.db
+Thumbs.dbg
 
 # 가상환경
 venv/
